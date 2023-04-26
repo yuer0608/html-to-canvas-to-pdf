@@ -22,6 +22,10 @@
   "files": [
     "dist/**/*"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuer0608/html-to-canvas-to-pdf.git"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.1",
     "@typescript-eslint/eslint-plugin": "5.8.1",
