@@ -20,7 +20,7 @@
     "typescript": "^4.9.3"
   },
   "files": [
-    "lib/**/*"
+    "dist/**/*"
   ],
   "devDependencies": {
     "@types/jest": "^29.5.1",

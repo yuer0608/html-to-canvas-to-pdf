@@ -27,7 +27,7 @@ export function downLoadPdf(htmlStr: string, pdfName: string) {
         content.style.color = 'rgb(34, 47, 62)';
         content.style.fontFamily = 'Helvetica, Arial, sans - serif';
         content.innerHTML = htmlStr;
-        document.appendChild(content);
+        document.body.appendChild(content);
 
         const pageHeight = content.offsetHeight;
         const pageWidth = content.offsetWidth;
