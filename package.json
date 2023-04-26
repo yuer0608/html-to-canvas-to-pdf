@@ -1,0 +1,11 @@
+{
+  "name": "html-to-canvas-to-pdf",
+  "version": "1.0.0",
+  "description": "html dom to pdf",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuer0608",
+  "license": "ISC"
+}
