@@ -1,6 +1,6 @@
 {
   "name": "html-to-canvas-to-pdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "html dom to pdf",
   "main": "index.ts",
   "module": "dist/esm/index.js",
