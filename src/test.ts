@@ -1,5 +1,1 @@
-import { Greeter } from './index';
-
-test('My Greeter', () => {
-    expect(Greeter('Carl')).toBe('Hello Carl');
-});
+export const Greeter = (name: string) => `Hello ${name}`;

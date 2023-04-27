@@ -1,7 +1,7 @@
 {
   "name": "html-to-canvas-to-pdf",
   "version": "1.0.3",
-  "description": "html dom to pdf",
+  "description": "html dom to pdf and have link feature in pdf file",
   "main": "index.ts",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
@@ -16,7 +16,6 @@
   "dependencies": {
     "html2canvas": "^1.4.1",
     "jspdf": "^2.5.1",
-    "tsup": "^6.6.0",
     "typescript": "^4.9.3"
   },
   "files": [
@@ -31,6 +30,7 @@
     "@typescript-eslint/eslint-plugin": "5.8.1",
     "@typescript-eslint/parser": "5.8.1",
     "eslint": "8.5.0",
+    "tsup": "^6.6.0",
     "eslint-config-airbnb": "19.0.4",
     "eslint-config-airbnb-typescript": "16.1.0",
     "eslint-config-prettier": "8.3.0",
